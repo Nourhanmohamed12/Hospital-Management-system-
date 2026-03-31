@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&lines= Hospital+Management+System;🏥+Complete+HMS+Solution;Python+%26+GUI+Powered" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&lines=HHospital+Management+System;🏥+Complete+HMS+Solution;Python+%26+GUI+Powered" />
   <br><br>
   <img src="https://img.shields.io/badge/🏥-Hospital%20Management-1E40AF?style=for-the-badge&logo=hospital&logoColor=white" />
   <img src="https://img.shields.io/badge/⭐-1%2C200%2B%20Records-3B82F6?style=for-the-badge&logo=database&logoColor=white" />
