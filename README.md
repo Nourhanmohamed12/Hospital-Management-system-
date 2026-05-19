@@ -174,7 +174,7 @@ SQLite → MySQL ready
 ☁️ Cloud Deployment (Heroku/AWS)
 📽️ Project Demo
 Watch Demo
-https://drive.google.com/file/d/1zJt2_3o2ocAMXkoyk-lLXLiRHoUsvHVW/view
+[https://drive.google.com/file/d/1zJt2_3o2ocAMXkoyk-lLXLiRHoUsvHVW/view](https://drive.google.com/file/d/1Xron_iCTa3riJVDwqKgCMvZaYEOrgNv6/view?usp=drive_link)
 
 ❤️ Acknowledgments
 <div align="center"> <img src="https://img.shields.io/badge/🎓-Academic%20Project-60A5FA?style=for-the-badge&logo=graduation-cap&logoColor=white" /> <br> <sub>🏥 Built for efficient healthcare management | Python GUI Excellence</sub> </div> <div align="center"> <img src="https://img.shields.io/github/stars/Nourhanmohamed12/Hospital-Management-system?style=social" /> <img src="https://img.shields.io/badge/License-MIT-1E40AF?style=for-the-badge&logo=legal&logoColor=white" /> </div> ```
